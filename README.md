@@ -23,20 +23,29 @@
 ---
 
 <details open="">
-<summary>
-  📝Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
+<summary>📝 Tech stack currently using:</summary>
+<br>
+
+<!-- Backend -->
+<code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"> JAVA </code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot"> SPRING BOOT</code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"> MY SQL</code>
+
+<!-- Frontend -->
+<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html"> HTML </code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css"> CSS 5 </code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"> JAVA SCRIPT </code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react"> REACT + VITE </code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"> BOOTSTRAP </code>
+
+<!-- Tools -->
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"> GIT </code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github">GIT HUB</code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven"> MAVEN</code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"> POST MAN </code>
 
 </details>
+
 <br>
 
 
